@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - version_1
+      - version_1_zyg_0_6
     paths:
       - 'src/**'
       - 'test/**'
