@@ -1,5 +1,4 @@
-name = "Mill"
-uuid = "1d0525e4-8992-11e8-313c-e310e1f6ddea"
+name = "Mill6"
 authors = ["Tomas Pevny <pevnak@protonmail.ch>", "Simon Mandlik <simon.mandlik@gmail.com>"]
 version = "2.6.0"
 
