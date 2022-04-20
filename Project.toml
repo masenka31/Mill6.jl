@@ -1,5 +1,5 @@
 name = "Mill6"
-uuid = ""268e34f8-cc7d-41e2-bf3a-0d45b12e3d15"
+uuid = "268e34f8-cc7d-41e2-bf3a-0d45b12e3d15"
 authors = ["Tomas Pevny <pevnak@protonmail.ch>", "Simon Mandlik <simon.mandlik@gmail.com>"]
 version = "2.6.0"
 
